@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"51104";"";
+"TraceParts.PartVersion";"1.5.5";"";
+"SUPPLIER";"SNR";"";
+"MASS";"0.038";"kg";
+"DESIGN";"Butée à billes simple effet - pour arbre Ø20";"";
+"TraceParts.PartNumber";"10-16012003-074672";"";
+"TraceParts.PartLanguage";"fr";"";
+"STANDARD";"ISO 104";"";
+"TraceParts.InstanceId";"10-16012003-074672177X8E1FWBC22KO8VVZ5RVFS5";"";
+"TraceParts.PartTitle";"Butée à billes simple effet";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SNR:10-16012003-074672";"";
+"TraceParts.PartStatus";"Published";"";
